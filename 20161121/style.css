@@ -1,0 +1,215 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+*{
+     font-family: "Microsoft YaHei" ! important; 
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+section {
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    letter-spacing: 5px;
+    color: #7fb498;
+    font-weight:800;
+}
+
+.t11 span {
+    color: #7fb498;
+    font-weight:800;
+    font-size: 14px;
+}
+
+.t12 span{
+    color: #1d9256;
+    font-size: 28px;
+    font-weight:800;
+}
+
+
+.head {
+    width: 100%;
+    height: 90px;
+    margin:0 auto;
+}
+
+.t1 {
+    margin-left: 100px;
+    width: 960px;
+    height: 162px;
+}
+
+.t11 {
+    float: left;
+    width:262px;
+    height:162px;
+    display: inline-block;
+}
+
+.t12 {
+    float：right；
+    height:162px;
+    margin-left:200px;
+    width:498px;
+    display: inline-block;
+}
+
+#div1{  width:244px; height:0px; border:#999 1px solid; float:left; margin-top: 5px; display: inline-block;}
+#div2{ width:407px; height:0px; border:#999 1px solid; float:left; margin-top: 5px; display: inline-block;}
+#div3{ float:left; height:10px; width: 285px; line-height:10px; margin:0px 10px; text-align:center; display: inline-block;}
+
+#space {
+    height: 15px;
+    width: 960px;
+    margin-left: 100px;
+}
+
+.t2 {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 960px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.t21 {
+    width: 244px;
+    height: 100px;
+    float:left;
+    display: inline-block;
+}
+
+.t22 {
+    width: 407px;
+    height: 100px;
+    float:right;
+    display: inline-block;
+}
+
+.t3 {
+    margin-left: 100px;
+    width: 960px;
+    height: 100px;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.t31 {
+    width: 244px;
+    height: 100px;
+    float:left;
+    display: inline-block;
+}
+
+.t32 {
+    width: 407px;
+    height: 100px;
+    float:right;
+    display: inline-block;
+}
+
+.t4 {
+    margin-left: 100px;
+    width: 960px;
+    height: 100px;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.t41 {
+    width: 244px;
+    height: 100px;
+    float:left;
+    display: inline-block;
+}
+
+.t42 {
+    width: 407px;
+    height: 100px;
+    float:right;
+    display: inline-block;
+}
+
+.t21 span, .t31 span, .t41 span{
+    color: grey;
+}
+
+.l1 {
+    margin-left: 100px;
+    width: 960px;
+    height: 200px;
+    display: block;
+}
+
+.l11{
+    margin-top: 20px;
+    width: 244px;
+    height: 140px;
+    float:left;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.l12{
+    margin-top: 20px;
+    width: 407px;
+    height: 140px;
+    float:right;
+    display: inline-block;
+}
+.l1 span{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: #7fb498;
+    border-radius: 10px;
+}
+
+#black {
+    background: black;
+}
