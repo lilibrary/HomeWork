@@ -1,0 +1,176 @@
+* {
+    font-family: Microsoft YaHei;
+    color: #666666;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+
+#pixel {
+    margin: 413px auto;
+    width: 960px;
+    background: white;
+}
+
+
+hr {
+	color: grey;
+}
+
+h1 {
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+}
+#small {
+	margin-top: 15px;
+    text-align: center;
+    height: 5px;
+    width: 100%;
+    padding-bottom: 25px;
+}
+ul {
+	color: grey;
+    margin-left: 15px;
+    list-style-type: disc;
+    list-style-position: inside;
+ }
+
+li {
+    box-sizing: border-box;
+	line-height: 32px;
+    font-size: 16px;
+    display: list-item;
+}
+
+p {
+/*    font-size: 22px;
+     align="center";*/
+}
+a{
+    text-decoration:none;
+    color: #00bcd4;
+}
+#x{
+    height: 100%;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+pre {
+    background: #F0F0F0;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+#div1{ width:870px; height:0px; border:#999 1px solid; margin:0 auto;}
+
+img {
+    margin-left: 50px;
+}
+
+#zan {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 30px;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.user_info {
+    margin-left: 45px;
+}
+
+.user_info input {
+    width: 289px;
+    height: 25px;
+    display: inline-block;
+    margin: 5px 0;
+    padding: 5px;
+    line-height: 25px !important;
+    -webkit-transition: all ease-in-out .2s;
+    transition: all ease-in-out .2s;
+    color: #aaa !important;
+    border: 0;
+    border-bottom: 1px solid #9cc;
+    outline: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    line-height: normal;
+    font: inherit;
+    margin: 0;
+    color: inherit;
+    padding: 0;
+    list-style-type: none;a
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#respond {
+    margin-left: 45px;
+    width: 873px;
+    height: 160px;
+}
+
+#confirm {
+    margin-left: 45px;
+    width: 873px;
+    height: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#button {
+    float: right;
+}
+
+#submit {
+    width: 110px;
+    padding: 5px;
+    height: 35px;
+    background: #39c;
+    color: #fff !important;
+    text-align: center;
+    border: 0;
+    outline: 0;
+    cursor:pointer;
+}
+
+#submit:hover  {
+    background: #9cc;
+}
+
+#smallx {
+    margin-left: 45px;
+    margin-top: 15px;
+    text-align: center;
+    width: 873px;
+    height: 36px;
+    padding-bottom: 25px;
+}
+
+#check {
+    font-size:13px;
+    margin-left: 45px;
+    margin-top: 15px;
+    width: 873px;
+    height: 36px;
+}
+
+#subscribe-label1 {
+    text-align: center;
+    vertical-align: 3px;
+    height: 10px;
+}
+
+#subscribe_blog {
+    padding-top: 10px;
+}
+#subscribe-label2 {
+    vertical-align: 10px;
+}
