@@ -160,6 +160,7 @@ img {
     margin-top: 15px;
     width: 873px;
     height: 36px;
+    position: relative;
 }
 
 #subscribe-label1 {
@@ -167,10 +168,7 @@ img {
     vertical-align: 3px;
     height: 10px;
 }
-
-#subscribe_blog {
-    padding-top: 10px;
-}
-#subscribe-label2 {
-    vertical-align: 10px;
-}
+/*
+#subscribe_blogx {
+    position: 
+}*/
