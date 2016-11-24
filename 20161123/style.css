@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #000000;
+}
+
+.content {
+	margin: 100px auto;
+	width: 858px;
+	height: 1238px;
+	background: #fff;
+}
+
