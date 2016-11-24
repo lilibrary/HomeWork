@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-* {
-	margin: 0;
-	padding: 0;
-}
-
-body {
-	background: #000000;
-}
-
-.content {
-	margin: 100px auto;
-	width: 858px;
-	height: 1238px;
-	background: #fff;
-}
-
-=======
 * {
 	margin: 0;
 	padding: 0;
@@ -84,4 +66,3 @@ input {
 #cb {
 	margin-left: 20px;
 }
->>>>>>> 0484648c62b00b3e3851187f7ef5e0fb13008c61
