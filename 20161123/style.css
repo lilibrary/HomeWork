@@ -12,5 +12,57 @@ body {
 	width: 858px;
 	height: 1238px;
 	background: #fff;
+	margin-left: 100px;
 }
 
+input {
+	outline: none;
+}
+.p{
+	border:1px solid #000000;
+	width:800px;
+	height:106px;
+	margin-left: 25px;
+}
+.first{
+	color:#666666;
+	margin-left:30px;
+	font-size:30px;
+	text-align:center;
+}
+.second{
+	border:0 none;
+	color:#c1c1c1;
+	font-size:30px;
+	width:300px;
+	height:100px;
+	text-align:left;
+}
+#yanzheng{
+	width:800px;
+	height:20px;
+	text-align:right;
+}
+#p1{
+	width:224px;
+	height:106px;
+	float:right;
+}
+#p2{
+	width:224px;
+	height:106px;
+	float:right;
+}
+#zhuce{
+	width:800px;
+	height:106px;
+	font-size:30px;
+	text-align:center;
+	background:#ee2222;
+	color:white;
+	margin-left: 25px;
+}
+
+#cb {
+	margin-left: 20px;
+}
