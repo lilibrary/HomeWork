@@ -1,0 +1,144 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.uni {
+	width: 100%;
+	background: url(bg.jpg) no-repeat 67% 70%;
+}
+
+.container{
+	width: 1210px;
+	height: 1100px;
+	margin: 0 auto;
+	position: relative;
+
+}
+
+.brand {
+	height: 100px;
+	width: 120px;
+	top: 30px;
+	left: 32px;
+	position: absolute;
+}
+
+.square {
+	border-top: 1px #ff7158 solid;
+	height: 99px;
+	width: 100px;
+	position: relative;
+	background: #e82d0c;
+	line-height: 99px;
+	text-align: center;
+}
+
+.tri1 {
+    border-bottom: 20px solid #aa1207;
+    border-right: 20px solid transparent;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+.tri2 {
+    border-top: 20px solid #aa1207;
+    border-right: 20px solid transparent;
+
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+.nav{
+	position: absolute;
+	top: 50px;
+	left: 131px;
+	width: 1012px;
+	padding-left: 30px;
+	height: 62px;
+	background: #000000;
+	position: relative;
+}
+
+.button {
+	height: 46px;
+	width: 99px;
+	position: absolute;
+	color: grey;
+	top: 444px;
+	left: 569px;
+	text-align: center;
+	line-height: 46px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	border: 1px solid #ffffff;
+	opacity: 0.2;
+}
+
+.button:hover{
+	opacity: 1;
+}
+
+span {
+	text-align: center;
+	display: block;
+	width: 68px;
+	height: 62px;
+	line-height: 62px;
+	color: white;
+	text-align: 13px;
+	float: left;
+	margin-left: 20px;
+}
+
+#d {
+	width: 100px;
+}
+
+span:hover {
+	width: 68px;
+	height: 80px;
+	background: #e82d0e;
+	color: black;
+	position: relative;
+	bottom: 10px;
+	line-height: 80px;
+	cursor: pointer;
+}
+
+#h {
+	width: 100px;
+	height: 80px;
+	background: #e82d0e;
+	color: black;
+	position: relative;
+	bottom: 10px;
+	line-height: 80px;
+}
+
+#d:hover {
+	width: 100px;
+	height: 80px;
+	background: #e82d0e;
+	color: black;
+	position: relative;
+	bottom: 10px;
+	line-height: 80px;
+}
+
+.txt {
+	width: 686px;
+	height: 52px;
+	color: white;
+	position: absolute;
+	top: 311px;
+	right: 262px;
+	font-size: 33px;
+	font-weight: 100;
+	font-family: 'Helvetica Neue';
+	text-align: center;
+}
