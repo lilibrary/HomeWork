@@ -1,0 +1,34 @@
+#Content .cate{
+	background: #eee;
+	border-bottom: 1px #000 solid;
+	min-height: 64px;
+	text-align: center;
+}
+
+.cate_post{
+	font: 14px/24px "Microsoft Yahei", "Arial";
+	color: #790;
+}
+
+.cate_post h3{
+	color: #ffbb93;
+	font-size: 20px;
+}
+
+
+.cate_post div{
+	display: inline-block;
+	background-color: #fff;
+	margin: 10px;
+	width:20%; 
+	min-width:170px;
+}
+
+.cate_post a{
+	font-weight: 800;
+}
+
+.post_date {
+	font-size: 12px;
+	color: #ccc;
+}

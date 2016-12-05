@@ -1,0 +1,35 @@
+/*
+Theme Name: Ucai-Blog
+*/
+
+@import url('./css/nav.css');
+@import url('./css/header.css');
+@import url('./css/content.css');
+@import url('./css/footer.css');
+
+/*css导入*/
+
+*{
+	transition: all 0.1s;
+}
+
+html,ul,ol,dl,a{
+	font: 12px/12px '宋体', 'Arial';
+	color: #333;
+    margin: 0;
+    padding: 0; 
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body{
+	padding: 60px 0 0;
+}
+
+.clear {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+/*css初始化*/
